@@ -49,7 +49,7 @@
       &:not(:last-child):before,
       &:not(:last-child):after{
         content: "";
-        background-color: #9b0a7a(255,255,255,.3);
+        background-color: #pink(255,255,255,.3);
         height: 5px;
         width: 5px;
         border-radius: 50%;
